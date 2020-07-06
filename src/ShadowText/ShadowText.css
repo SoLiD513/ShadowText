@@ -10,7 +10,7 @@ body {
   background: #1edad0;
 }
 .text-3d {
-  font-size: 2rem;
+  font-size: 6rem;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -26,7 +26,7 @@ body {
     -4px -5px 1px #fff, -5px -5px 1px #fff;
 }
 .text-3d:before {
-  content: "Edit src/App.js and save to reload.";
+  content: "React 3D Text";
   position: absolute;
   left: 0;
   top: 0;

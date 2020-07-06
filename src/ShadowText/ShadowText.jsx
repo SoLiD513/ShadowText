@@ -6,7 +6,7 @@ class ShadowText extends Component {
     return (
       <>
         <div className="wrapper">
-          <div className="text-3d">Edit src/App.js and save to reload.</div>
+          <div className="text-3d">React 3D Text</div>
         </div>
       </>
     );
